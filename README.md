@@ -1,4 +1,3 @@
-# yahyaemad887
 <div align="center">
 
 # Yahia Emad 🚀
@@ -22,14 +21,14 @@
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://githubusercontent.com" alt="flutter" width="40" height="40"/>&nbsp;
-  <img src="https://githubusercontent.com" alt="dart" width="40" height="40"/>&nbsp;
-  <img src="https://githubusercontent.com" alt="android" width="40" height="40"/>&nbsp;
-  <img src="https://githubusercontent.com" alt="kotlin" width="40" height="40"/>&nbsp;
-  <img src="https://githubusercontent.com" alt="firebase" width="40" height="40"/>&nbsp;
-  <img src="https://githubusercontent.com" alt="git" width="40" height="40"/>&nbsp;
-  <img src="https://githubusercontent.com" alt="bash" width="40" height="40"/>&nbsp;
-  <img src="https://githubusercontent.com" alt="android-studio" width="40" height="40"/>
+  <img src="https://jsdelivr.net" alt="flutter" width="40" height="40"/>&nbsp;
+  <img src="https://jsdelivr.net" alt="dart" width="40" height="40"/>&nbsp;
+  <img src="https://jsdelivr.net" alt="android" width="40" height="40"/>&nbsp;
+  <img src="https://jsdelivr.net" alt="kotlin" width="40" height="40"/>&nbsp;
+  <img src="https://jsdelivr.net" alt="firebase" width="40" height="40"/>&nbsp;
+  <img src="https://jsdelivr.net" alt="git" width="40" height="40"/>&nbsp;
+  <img src="https://jsdelivr.net" alt="bash" width="40" height="40"/>&nbsp;
+  <img src="https://jsdelivr.net" alt="android-studio" width="40" height="40"/>
 </p>
 
 > **Core Skills:** Riverpod | Hive DB | Shared Preferences | SOLID Principles | Kotlin Platform Channels | Material 3 Design | Google Gemini AI API
@@ -52,10 +51,10 @@
 ### 📬 Contact Me
 
 <p align="left">
-  <a href="mailto:yahyaemad887@gmail.com">
+  <a href="mailto:yahyaemad887@gmail.com" target="_blank">
     <img src="https://shields.io" alt="Gmail"/>
-  </a>
-  <a href="https://linkedin.com">
+  </a>&nbsp;
+  <a href="https://linkedin.com" target="_blank">
     <img src="https://shields.io" alt="LinkedIn"/>
   </a>
 </p>
