@@ -57,6 +57,9 @@
   </a>&nbsp;
   <a href="https://linkedin.com" target="_blank">
     <img src="https://shields.io" alt="LinkedIn"/>
+  </a>&nbsp;
+  <a href="https://wa.me" target="_blank">
+    <img src="https://shields.io" alt="WhatsApp"/>
   </a>
 </p>
 
@@ -73,4 +76,5 @@
 <img src="https://herokuapp.com" alt="GitHub Streak" />
 
 </div>
+
 #phone +201553427179
