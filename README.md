@@ -12,23 +12,24 @@
 ### 👤 About Me
 
 - 📱 **Metrics-driven Mobile Software Engineer** with 4 years of hands-on experience specializing in high-performance applications.
-- 🚀 Expert in optimizing mobile architectures using **Flutter, Dart, and Native Android (Kotlin)**.
+- 🚀 Expert in optimizing mobile architectures using **Flutter, Dart, and Native Android (Kotlin & Java)**.
 - 🧠 Deep expertise in **Clean Architecture, SOLID principles**, reactive state management via **Riverpod**, and thread-safe offline caching (**Hive DB**).
-- ⚙️ Skilled in low-level OS hardware communication utilizing custom asynchronous **Kotlin Platform Channels**.
+- ⚙️ Skilled in low-level OS hardware communication utilizing custom asynchronous **Kotlin Platform Channels** and performance tuning with **C++**.
 
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://jsdelivr.net" alt="flutter" width="40" height="40"/>&nbsp;
-  <img src="https://jsdelivr.net" alt="dart" width="40" height="40"/>&nbsp;
-  <img src="https://jsdelivr.net" alt="android" width="40" height="40"/>&nbsp;
-  <img src="https://jsdelivr.net" alt="kotlin" width="40" height="40"/>&nbsp;
-  <img src="https://jsdelivr.net" alt="firebase" width="40" height="40"/>&nbsp;
-  <img src="https://jsdelivr.net" alt="git" width="40" height="40"/>&nbsp;
-  <img src="https://jsdelivr.net" alt="bash" width="40" height="40"/>&nbsp;
-  <img src="https://jsdelivr.net" alt="android-studio" width="40" height="40"/>
+  <img src="https://shields.io" alt="Flutter"/>&nbsp;
+  <img src="https://shields.io" alt="Dart"/>&nbsp;
+  <img src="https://shields.io" alt="Kotlin"/>&nbsp;
+  <img src="https://shields.io" alt="Java"/>&nbsp;
+  <img src="https://shields.io" alt="C++"/>&nbsp;
+  <img src="https://shields.io" alt="Android"/>&nbsp;
+  <img src="https://shields.io" alt="Firebase"/>&nbsp;
+  <img src="https://shields.io" alt="Git"/>&nbsp;
+  <img src="https://shields.io" alt="Bash"/>
 </p>
 
 > **Core Skills:** Riverpod | Hive DB | Shared Preferences | SOLID Principles | Kotlin Platform Channels | Material 3 Design | Google Gemini AI API
@@ -61,22 +62,15 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://vercel.app" alt="GitHub Trophies" />
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://vercel.app)
+<img src="https://vercel.app" alt="GitHub Stats" />
 
 <br/>
 
-![GitHub Streak](https://herokuapp.com)
+<img src="https://herokuapp.com" alt="GitHub Streak" />
 
 </div>
+#phone +201553427179
