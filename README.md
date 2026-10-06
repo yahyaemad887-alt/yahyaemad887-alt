@@ -18,16 +18,14 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stac
 
 <p align="left">
   <img src="Flutter-Dark.svg" alt="Flutter" width="45" height="45"/>&nbsp;
   <img src="Kotlin-Dark.svg" alt="Kotlin" width="45" height="45"/>&nbsp;
   <img src="Java-Dark.svg" alt="Java" width="45" height="45"/>&nbsp;
   <img src="CPP.svg" alt="C++" width="45" height="45"/>&nbsp;
-  <img src="Firebase.svg" alt="Firebase" width="45" height="45"/>&nbsp;
-  <img src="Git.svg" alt="Git" width="45" height="45"/>&nbsp;
-  <img src="Bash.svg" alt="Bash" width="45" height="45"/>&nbsp;
+  <img src="Git.svg" alt="Git" width="45" height="45"/>&nbsp
   <img src="HTML.svg" alt="HTML" width="45" height="45"/>&nbsp;
   <img src="CSS.svg" alt="CSS" width="45" height="45"/>&nbsp;
   <img src="VSCode-Dark.svg" alt="VSCode" width="45" height="45"/>
