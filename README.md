@@ -22,11 +22,9 @@
 
 <p align="left">
   <img src="Flutter-Dark.svg" alt="Flutter" width="45" height="45"/>&nbsp;
-  <img src="Dart.svg" alt="Dart" width="45" height="45"/>&nbsp;
   <img src="Kotlin-Dark.svg" alt="Kotlin" width="45" height="45"/>&nbsp;
   <img src="Java-Dark.svg" alt="Java" width="45" height="45"/>&nbsp;
   <img src="CPP.svg" alt="C++" width="45" height="45"/>&nbsp;
-  <img src="Android.svg" alt="Android" width="45" height="45"/>&nbsp;
   <img src="Firebase.svg" alt="Firebase" width="45" height="45"/>&nbsp;
   <img src="Git.svg" alt="Git" width="45" height="45"/>&nbsp;
   <img src="Bash.svg" alt="Bash" width="45" height="45"/>&nbsp;
