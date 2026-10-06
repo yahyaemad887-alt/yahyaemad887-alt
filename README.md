@@ -21,15 +21,15 @@
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://shields.io" alt="Flutter"/>&nbsp;
-  <img src="https://shields.io" alt="Dart"/>&nbsp;
-  <img src="https://shields.io" alt="Kotlin"/>&nbsp;
-  <img src="https://shields.io" alt="Java"/>&nbsp;
-  <img src="https://shields.io" alt="C++"/>&nbsp;
-  <img src="https://shields.io" alt="Android"/>&nbsp;
-  <img src="https://shields.io" alt="Firebase"/>&nbsp;
-  <img src="https://shields.io" alt="Git"/>&nbsp;
-  <img src="https://shields.io" alt="Bash"/>
+  <img src="https://githubusercontent.com" alt="Flutter" width="45" height="45"/>&nbsp;
+  <img src="https://githubusercontent.com" alt="Dart" width="45" height="45"/>&nbsp;
+  <img src="https://githubusercontent.com" alt="Kotlin" width="45" height="45"/>&nbsp;
+  <img src="https://githubusercontent.com" alt="Java" width="45" height="45"/>&nbsp;
+  <img src="https://githubusercontent.com" alt="C++" width="45" height="45"/>&nbsp;
+  <img src="https://githubusercontent.com" alt="Android" width="45" height="45"/>&nbsp;
+  <img src="https://githubusercontent.com" alt="Firebase" width="45" height="45"/>&nbsp;
+  <img src="https://githubusercontent.com" alt="Git" width="45" height="45"/>&nbsp;
+  <img src="https://githubusercontent.com" alt="Bash" width="45" height="45"/>
 </p>
 
 > **Core Skills:** Riverpod | Hive DB | Shared Preferences | SOLID Principles | Kotlin Platform Channels | Material 3 Design | Google Gemini AI API
@@ -51,17 +51,9 @@
 
 ### 📬 Contact Me
 
-<p align="left">
-  <a href="mailto:yahyaemad887@gmail.com" target="_blank">
-    <img src="https://shields.io" alt="Gmail"/>
-  </a>&nbsp;
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn"/>
-  </a>&nbsp;
-  <a href="https://wa.me" target="_blank">
-    <img src="https://shields.io" alt="WhatsApp"/>
-  </a>
-</p>
+📞 **Phone:** [+201553427179](https://wa.me)  
+✉️ **Email:** yahyaemad887@gmail.com  
+💼 **LinkedIn:** [://linkedin.com](https://://linkedin.com)  
 
 ---
 
