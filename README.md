@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- البانر العلوي الاحترافي المطابق للصورة -->
+<!-- البانر العلوي البنفسجي المطابق تماماً لشكل صورة صلاح حسن -->
 <img src="https://vercel.app" alt="Banner"/>
 
 ### ⚡ Mobile Software Engineer | Flutter & Native Android Integrator ⚡
@@ -23,14 +23,17 @@
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="Flutter-Dark.svg" alt="Flutter" width="45" height="45"/>&nbsp;
-  <img src="Kotlin-Dark.svg" alt="Kotlin" width="45" height="45"/>&nbsp;
-  <img src="Java-Dark.svg" alt="Java" width="45" height="45"/>&nbsp;
-  <img src="CPP.svg" alt="C++" width="45" height="45"/>&nbsp;
-  <img src="Git.svg" alt="Git" width="45" height="45"/>&nbsp;
-  <img src="HTML.svg" alt="HTML" width="45" height="45"/>&nbsp;
-  <img src="CSS.svg" alt="CSS" width="45" height="45"/>&nbsp;
-  <img src="VSCode-Dark.svg" alt="VSCode" width="45" height="45"/>
+  <img src="https://githubusercontent.com" alt="Flutter" width="45" height="45"/>&nbsp;
+  <img src="https://githubusercontent.com" alt="Dart" width="45" height="45"/>&nbsp;
+  <img src="https://githubusercontent.com" alt="Kotlin" width="45" height="45"/>&nbsp;
+  <img src="https://githubusercontent.com" alt="Java" width="45" height="45"/>&nbsp;
+  <img src="https://githubusercontent.com" alt="C++" width="45" height="45"/>&nbsp;
+  <img src="https://githubusercontent.com" alt="Android" width="45" height="45"/>&nbsp;
+  <img src="https://githubusercontent.com" alt="Firebase" width="45" height="45"/>&nbsp;
+  <img src="https://githubusercontent.com" alt="Git" width="45" height="45"/>&nbsp;
+  <img src="https://githubusercontent.com" alt="HTML" width="45" height="45"/>&nbsp;
+  <img src="https://githubusercontent.com" alt="CSS" width="45" height="45"/>&nbsp;
+  <img src="https://githubusercontent.com" alt="VSCode" width="45" height="45"/>
 </p>
 
 > **Core Skills:** Riverpod | Hive DB | Shared Preferences | SOLID Principles | Kotlin Platform Channels | Material 3 Design | Google Gemini AI API
@@ -52,12 +55,12 @@
 
 ### 📬 Contact Me
 
-<!-- أزرار التواصل الملونة الكبيرة المطابقة تماماً لشكل الصورة -->
+<!-- أزرار التواصل الكبيرة الملونة المطابقة لشكل الصورة بالظبط -->
 <p align="left">
   <a href="mailto:yahyaemad887@gmail.com" target="_blank">
     <img src="https://shields.io" alt="Gmail"/>
   </a>&nbsp;
-  <a href="https://www.linkedin.com/in/yahya-emad-248b33419?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
+  <a href="https://linkedin.com" target="_blank">
     <img src="https://shields.io" alt="LinkedIn"/>
   </a>&nbsp;
   <a href="https://wa.me" target="_blank">
@@ -67,19 +70,11 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://vercel.app" alt="GitHub Trophies" />
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
 
-<!-- كروت الإحصائيات الملونة بالثيم البنفسجي والوردي المطابق للصورة تماماً -->
+<!-- كروت الإحصائيات بثيم buefy البنفسجي والوردي المطابق تماماً لـ صلاح حسن -->
 <img src="https://vercel.app" alt="GitHub Stats" />
 
 <br/>
