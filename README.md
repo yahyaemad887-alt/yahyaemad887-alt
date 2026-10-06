@@ -52,7 +52,7 @@
 
 📞 **Phone:** [+201553427179](https://wa.me)  
 ✉️ **Email:** yahyaemad887@gmail.com  
-💼 **LinkedIn:** [اضغط هنا لزيارة حسابي](https://linkedin.com)  
+💼 **LinkedIn:**[linked profile](https://www.linkedin.com/in/yahya-emad-248b33419?utm_source=share_via&utm_content=profile&utm_medium=member_android)  
 
 ---
 
