@@ -1,6 +1,8 @@
 <div align="center">
 
-# Yahia Emad 🚀
+<!-- البانر العلوي الاحترافي المطابق للصورة -->
+<img src="https://vercel.app" alt="Banner"/>
+
 ### ⚡ Mobile Software Engineer | Flutter & Native Android Integrator ⚡
 
 ---
@@ -18,14 +20,14 @@
 
 ---
 
-### 🛠️ Tech Stac
+### 🛠️ Tech Stack
 
 <p align="left">
   <img src="Flutter-Dark.svg" alt="Flutter" width="45" height="45"/>&nbsp;
   <img src="Kotlin-Dark.svg" alt="Kotlin" width="45" height="45"/>&nbsp;
   <img src="Java-Dark.svg" alt="Java" width="45" height="45"/>&nbsp;
   <img src="CPP.svg" alt="C++" width="45" height="45"/>&nbsp;
-  <img src="Git.svg" alt="Git" width="45" height="45"/>&nbsp
+  <img src="Git.svg" alt="Git" width="45" height="45"/>&nbsp;
   <img src="HTML.svg" alt="HTML" width="45" height="45"/>&nbsp;
   <img src="CSS.svg" alt="CSS" width="45" height="45"/>&nbsp;
   <img src="VSCode-Dark.svg" alt="VSCode" width="45" height="45"/>
@@ -50,9 +52,40 @@
 
 ### 📬 Contact Me
 
-📞 **Phone:** [+201553427179](https://wa.me)  
-✉️ **Email:** yahyaemad887@gmail.com  
-💼 **LinkedIn:**[linked profile](https://www.linkedin.com/in/yahya-emad-248b33419?utm_source=share_via&utm_content=profile&utm_medium=member_android) 
+<!-- أزرار التواصل الملونة الكبيرة المطابقة تماماً لشكل الصورة -->
+<p align="left">
+  <a href="mailto:yahyaemad887@gmail.com" target="_blank">
+    <img src="https://shields.io" alt="Gmail"/>
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/yahya-emad-248b33419?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn"/>
+  </a>&nbsp;
+  <a href="https://wa.me" target="_blank">
+    <img src="https://shields.io" alt="WhatsApp"/>
+  </a>
+</p>
 
+---
 
+### 🏆 GitHub Trophies
 
+<p align="center">
+  <img src="https://vercel.app" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<!-- كروت الإحصائيات الملونة بالثيم البنفسجي والوردي المطابق للصورة تماماً -->
+<img src="https://vercel.app" alt="GitHub Stats" />
+
+<br/>
+
+<img src="https://herokuapp.com" alt="GitHub Streak" />
+
+</div>
+
+#phone +201553427179
