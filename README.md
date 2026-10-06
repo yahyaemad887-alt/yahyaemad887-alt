@@ -21,7 +21,18 @@
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev" alt="My Skills"/>
+  <img src="Flutter-Dark.svg" alt="Flutter" width="45" height="45"/>&nbsp;
+  <img src="Dart.svg" alt="Dart" width="45" height="45"/>&nbsp;
+  <img src="Kotlin-Dark.svg" alt="Kotlin" width="45" height="45"/>&nbsp;
+  <img src="Java-Dark.svg" alt="Java" width="45" height="45"/>&nbsp;
+  <img src="CPP.svg" alt="C++" width="45" height="45"/>&nbsp;
+  <img src="Android.svg" alt="Android" width="45" height="45"/>&nbsp;
+  <img src="Firebase.svg" alt="Firebase" width="45" height="45"/>&nbsp;
+  <img src="Git.svg" alt="Git" width="45" height="45"/>&nbsp;
+  <img src="Bash.svg" alt="Bash" width="45" height="45"/>&nbsp;
+  <img src="HTML.svg" alt="HTML" width="45" height="45"/>&nbsp;
+  <img src="CSS.svg" alt="CSS" width="45" height="45"/>&nbsp;
+  <img src="VSCode-Dark.svg" alt="VSCode" width="45" height="45"/>
 </p>
 
 > **Core Skills:** Riverpod | Hive DB | Shared Preferences | SOLID Principles | Kotlin Platform Channels | Material 3 Design | Google Gemini AI API
@@ -45,7 +56,7 @@
 
 📞 **Phone:** [+201553427179](https://wa.me)  
 ✉️ **Email:** yahyaemad887@gmail.com  
-💼 **LinkedIn:** [://linkedin.com](https://://linkedin.com)  
+💼 **LinkedIn:** [اضغط هنا لزيارة حسابي](https://linkedin.com)  
 
 ---
 
@@ -57,6 +68,4 @@
 
 
 
-</div>
 
-#phone +201553427179
