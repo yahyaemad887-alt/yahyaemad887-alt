@@ -21,15 +21,7 @@
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://githubusercontent.com" alt="Flutter" width="45" height="45"/>&nbsp;
-  <img src="https://githubusercontent.com" alt="Dart" width="45" height="45"/>&nbsp;
-  <img src="https://githubusercontent.com" alt="Kotlin" width="45" height="45"/>&nbsp;
-  <img src="https://githubusercontent.com" alt="Java" width="45" height="45"/>&nbsp;
-  <img src="https://githubusercontent.com" alt="C++" width="45" height="45"/>&nbsp;
-  <img src="https://githubusercontent.com" alt="Android" width="45" height="45"/>&nbsp;
-  <img src="https://githubusercontent.com" alt="Firebase" width="45" height="45"/>&nbsp;
-  <img src="https://githubusercontent.com" alt="Git" width="45" height="45"/>&nbsp;
-  <img src="https://githubusercontent.com" alt="Bash" width="45" height="45"/>
+  <img src="https://skillicons.dev" alt="My Skills"/>
 </p>
 
 > **Core Skills:** Riverpod | Hive DB | Shared Preferences | SOLID Principles | Kotlin Platform Channels | Material 3 Design | Google Gemini AI API
@@ -57,15 +49,13 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity & Contribution Graph
 
 <div align="center">
 
-<img src="https://vercel.app" alt="GitHub Stats" />
+### My Contribution Graph 🐉
 
-<br/>
 
-<img src="https://herokuapp.com" alt="GitHub Streak" />
 
 </div>
 
