@@ -1,80 +1,27 @@
-<div align="center">
+# 💫 About Me:
+ZYROX <br>MOBILE ENGINEER 
 
-# Yahia Emad 🚀
-### ⚡ Mobile Software Engineer | Flutter & Native Android Integrator ⚡
 
----
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Yehia Emad ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Yahya emad ) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/yahyaemad887) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@yehia2214) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@yahya emad) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yahyaemad887@gmail.com) 
 
-## Problem Solver
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=yahyaemad887-alt&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=yahyaemad887-alt&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=yahyaemad887-alt&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=yahyaemad887-alt&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 👤 About Me
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 📱 **Metrics-driven Mobile Software Engineer** with 4 years of hands-on experience specializing in high-performance applications.
-- 🚀 Expert in optimizing mobile architectures using **Flutter, Dart, and Native Android (Kotlin & Java)**.
-- 🧠 Deep expertise in **Clean Architecture, SOLID principles**, reactive state management via **Riverpod**, and thread-safe offline caching (**Hive DB**).
-- ⚙️ Skilled in low-level OS hardware communication utilizing custom asynchronous **Kotlin Platform Channels** and performance tuning with **C++**.
-
----
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://shields.io" alt="Flutter"/>&nbsp;
-  <img src="https://shields.io" alt="Dart"/>&nbsp;
-  <img src="https://shields.io" alt="Kotlin"/>&nbsp;
-  <img src="https://shields.io" alt="Java"/>&nbsp;
-  <img src="https://shields.io" alt="C++"/>&nbsp;
-  <img src="https://shields.io" alt="Android"/>&nbsp;
-  <img src="https://shields.io" alt="Firebase"/>&nbsp;
-  <img src="https://shields.io" alt="Git"/>&nbsp;
-  <img src="https://shields.io" alt="Bash"/>
-</p>
-
-> **Core Skills:** Riverpod | Hive DB | Shared Preferences | SOLID Principles | Kotlin Platform Channels | Material 3 Design | Google Gemini AI API
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=yahyaemad887-alt&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=yahyaemad887-alt&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 📁 Featured Production Projects
-
-* **📱 PDF X — Advanced Document Reader & Explorer Platform**
-  * Engineered a lightweight document visualization engine featuring a ~60MB binary footprint and sub-second cold startup time supporting PDF, Office, and text formats.
-* **🏋️ ZABET — Multi-Utility Productivity & Gym Engine**
-  * Architected an offline-first workflow companion combining background execution engines for workout metrics tracking and precise notification scheduling.
-* **🔍 QR AI — Intelligent Scanner & Barcode Utility**
-  * Built a responsive barcode and vector grid system, boosting scanning speed by writing explicit Kotlin wrappers around native camera APIs linked with Google Gemini AI.
-* **🎬 NOVA MEDIA — Ultra-Low Footprint Multimedia Engine**
-  * Created a low-RAM multimedia engine (~20MB storage) binding native Android MediaSession layers with a reactive Flutter UI for uninterrupted background playback.
-
----
-
-### 📬 Contact Me
-
-<p align="left">
-  <a href="mailto:yahyaemad887@gmail.com" target="_blank">
-    <img src="https://shields.io" alt="Gmail"/>
-  </a>&nbsp;
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn"/>
-  </a>&nbsp;
-  <a href="https://wa.me" target="_blank">
-    <img src="https://shields.io" alt="WhatsApp"/>
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://vercel.app" alt="GitHub Stats" />
-
-<br/>
-
-<img src="https://herokuapp.com" alt="GitHub Streak" />
-
-</div>
-
-#phone +201553427179
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
