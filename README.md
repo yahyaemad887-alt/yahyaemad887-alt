@@ -1,6 +1,7 @@
-# 💫 About Me:
-#Yahya emad 
-#MOBILE ENGINEER 
+ <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,25,35,45&height=180&section=header&text=Yahya%20Emad&fontSize=50&animation=fadeIn&fontColor=fff&fontAlignY=35&desc=Mobile%20Engineer%20%7C%20Flutter%20Developer&descSize=20&descAlignY=60" />
+</p>
+
 
 ZYROX
 ## 🌐 Socials:
