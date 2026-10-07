@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,25,35,45&height=180&section=header&text=Yahya%20Emad&fontSize=50&animation=fadeIn&fontColor=fff&fontAlignY=35&desc=Mobile%20Engineer%20%7C%20Flutter%20%26%20Kotlin&descSize=20&descAlignY=60" />
+  <a href="https://github.com/yahyaemod887-alt">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&height=70&lines=Yahya+Emad;Mobile+Engineer;Flutter+%26+Kotlin+Developer" alt="Typing SVG" />
+  </a>
 </p>
+
 
 ZYROX
 ## 🌐 Socials:
